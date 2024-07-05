@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to use hex colours in Flutter"
+title:  "How to use hex colours in Flutter?"
 date:   2024-07-05 06:04:47 +0100
 categories: flutter
 ---
