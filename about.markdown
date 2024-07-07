@@ -4,15 +4,41 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am Onur Ozgur OZKAN, an entrepreneur with a passion for innovation and technology.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Companies
 
+I'm co-founder several companies:
 
-[jekyll-organization]: https://github.com/jekyll
+* [Lab2023](https://www.lab2023.com/)
+* [Bulutfon](https://www.bulutfon.com/)
+* [Hipcall](https://www.hipcall.com/)
+
+## Software Skills
+
+I have expertise in the following technologies:
+
+* **Frontend**: HTML, CSS, Bootstrap, Tailwind, JavaScript, Vue, AlpineJS
+* **Backend**: PHP, Laravel, Ruby, Rails, Elixir, Phoenix
+* **Others**: Erlang, Dart, Flutter (beginner level)
+
+## Marketing Skills
+
+I am proficient in various digital marketing tools and platforms:
+
+* Google Analytics
+* Google Search Console
+* Google Ads
+* Facebook Ads
+
+## Other Skills
+
+I also have experience and interest in:
+
+* Artificial Intelligence (AI)
+* Machine Learning
+
+Feel free to reach out if you'd like to connect or collaborate!
+
