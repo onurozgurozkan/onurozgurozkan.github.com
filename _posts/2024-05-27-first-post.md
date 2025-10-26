@@ -11,6 +11,6 @@ I’ve decided to start writing blog posts! 🎉 This is a space where I’ll sh
 
 Feel free to leave comments and join the conversation!
 
-Stay tuned for more.
+Stay tuned for more. ❤️
 
 Cheers, Onur Ozgur OZKAN
